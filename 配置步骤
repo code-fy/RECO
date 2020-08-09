@@ -1,0 +1,13 @@
+pycharm 配置pyspark
+在三角形的config文件中配置PYTHON_PATH，SPARK_HOME
+并将spark中的python中的lib 下的 pyspark，py4j压缩包放到文件下
+启动spark
+web页面查看地址
+配置类指定启动地址
+********************************************************
+配置spark sql 读取hive
+将hive-site.xml拷贝到spark的config目录下
+并将mysql驱动导入spark的jars下
+********************************************************
+如果jupyter notebook 找不到pyspark
+安装findspark即可
