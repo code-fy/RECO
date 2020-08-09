@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 09 19:19:03 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-d2f2-073d-00000a9e56a8 
+on database directory /Users/hycao/PycharmProjects/Rco/recoSystem/offline/full_cal/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@353e114b 
+Loaded from file:/usr/local/spark-2.1.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=/Users/hycao/PycharmProjects/Rco/recoSystem/offline/full_cal
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
