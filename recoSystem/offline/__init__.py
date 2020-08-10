@@ -5,7 +5,6 @@ from pyspark.sql import SparkSession
 import os
 
 
-
 class SparkSessionBase(object):
 
     SPARK_APP_NAME = None
